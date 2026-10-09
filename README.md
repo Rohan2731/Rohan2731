@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan2731
 - 👀 I’m interested in ...Full Stack
-- 🌱 I’m currently learning ...Front End
+- 🌱 I’m currently learning ...Agentic Ai and LLM's
 - 📫 How to reach me ...rohanbilagi27@gamil.com
 - 😄 Pronouns: ...Rohan
 <!---
